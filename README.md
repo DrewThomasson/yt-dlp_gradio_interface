@@ -5,6 +5,8 @@ A sleek and user-friendly web interface built with Gradio for downloading videos
 <img width="1166" alt="Screenshot 2024-11-02 at 12 25 18 AM" src="https://github.com/user-attachments/assets/32bfdba0-9456-4e0b-9f85-d9af0959708f">
 <img width="1166" alt="Screenshot 2024-11-02 at 12 25 30 AM" src="https://github.com/user-attachments/assets/27e96282-2107-48b0-baa2-dd376079e15b">
 
+## [🤗 Hugginface Demo (Demo only not functional lol)](https://huggingface.co/spaces/drewThomasson/yt-dlp_downloader_interface)
+
 ## 📌 Table of Contents
 
 - [Features](#features)
