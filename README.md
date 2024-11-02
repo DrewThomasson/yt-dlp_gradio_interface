@@ -17,7 +17,7 @@ A sleek and user-friendly web interface built with Gradio for downloading videos
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features 🌟 
+## Features
 
 - **Intuitive Interface:** Clean and modern design with easy navigation.
 - **Video & Audio Downloads:** Choose to download entire videos or extract audio in various formats.
@@ -29,7 +29,7 @@ A sleek and user-friendly web interface built with Gradio for downloading videos
 - **Advanced Configuration:** Access comprehensive `yt-dlp` options for customized downloads.
 - **Custom Arguments:** Input additional `yt-dlp` arguments for advanced users.
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running the application, ensure you have the following installed on your system:
 
@@ -59,7 +59,7 @@ Before running the application, ensure you have the following installed on your 
      sudo apt-get install ffmpeg
      ```
 
-## 🚀 Installation
+## Installation
 
 1. **Clone the Repository**  
    Navigate to your desired directory and clone the repository:
@@ -85,7 +85,7 @@ Before running the application, ensure you have the following installed on your 
    pip install yt-dlp gradio
    ```
 
-## 🖥️ Usage
+## Usage
 
 1. **Run the Application**  
    Execute the `app.py` script:
@@ -96,7 +96,7 @@ Before running the application, ensure you have the following installed on your 
 2. **Access the Interface**  
    Once the application is running, Gradio will provide a local URL (e.g., `http://127.0.0.1:7860`). Open this URL in your web browser to access the yt-dlp interface.
 
-## ⚙️ Configuration
+## Configuration
 
 ### **Download Tab**
 
@@ -181,7 +181,7 @@ Before running the application, ensure you have the following installed on your 
   - **🚫 Abort on Error (--abort-on-error):**  
     Stop downloading if an error occurs.
 
-## 🛠️ Advanced Options
+## Advanced Options
 
 - **🎶 Extract Audio:**  
   Choose to extract audio from the video and select the desired format and quality.
@@ -195,7 +195,7 @@ Before running the application, ensure you have the following installed on your 
 - **Custom Arguments:**  
   For advanced users, input any additional `yt-dlp` arguments not covered by the interface.
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 - **IsADirectoryError:**  
   *Error Message:*  
@@ -217,7 +217,7 @@ Before running the application, ensure you have the following installed on your 
   *Solution:*  
   Choose a directory where you have write permissions or adjust the permissions accordingly.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
 
@@ -227,7 +227,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
