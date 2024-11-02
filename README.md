@@ -17,7 +17,7 @@ A sleek and user-friendly web interface built with Gradio for downloading videos
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## Features 🌟 
 
 - **Intuitive Interface:** Clean and modern design with easy navigation.
 - **Video & Audio Downloads:** Choose to download entire videos or extract audio in various formats.
